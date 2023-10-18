@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Kiara, Dev iOS 
 
 <a href="https://github.com/anaverso/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anaverso" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anaverso&show_icons=true&theme=calm" />
 </a>
 
 <!--
